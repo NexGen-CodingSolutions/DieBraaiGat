@@ -32,7 +32,7 @@ export default function Navbar(params) {
         <a href="#" className="block py-2 text-2xl px-3 text-brown rounded">Services</a>
       </li>
       <li>
-        <a href="#" className="block py-2 text-2xl px-3 text-brown rounded">Contact</a>
+        <a href="/Contact" className="block py-2 text-2xl px-3 text-brown rounded">Contact</a>
       </li>
     </ul>
   </div>
