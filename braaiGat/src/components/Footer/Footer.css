@@ -1,0 +1,9 @@
+.facebook {
+    border-radius: 30px 60px 80px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 111px;
+    padding: 1em 0;
+    height: auto;
+}

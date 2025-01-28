@@ -1,3 +1,4 @@
+import Footer from "../../components/Footer/Footer";
 import Navbar from "../../components/Navbar/Navbar";
 import  './HomePage.css'
 
@@ -43,6 +44,7 @@ export default function HomePage(params) {
             </div>
             <img src="./HomePage/Images/MerchSauce.jpg" alt="" className="w-4xl h-[438px] ml-auto"  />
         </div>
+        <Footer/>
         </>
         
     )
