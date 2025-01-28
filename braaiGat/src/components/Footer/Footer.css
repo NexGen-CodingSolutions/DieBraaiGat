@@ -1,9 +1,27 @@
-.facebook {
+.tiktok,.whatsapp {
     border-radius: 30px 60px 80px 80px;
     display: flex;
     justify-content: center;
     align-items: center;
     max-width: 111px;
-    padding: 1em 0;
+    padding: 1em 1.5em;
     height: auto;
+}
+.facebook{
+    border-radius: 30px 60px 80px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 111px;
+    padding: 1em 2em;
+    height: auto;
+}
+.phone {
+    border-radius: 30px 60px 80px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 113px;
+    padding: 1em 1.5em;
+    height: auto; 
 }
